@@ -12,7 +12,6 @@ public class Application {
 		System.out.println("Welcome.....");
 		SpringApplication.run(Application.class, args);
 		System.out.println("Welcome Again.....");
-
 	}
 
 	@Bean
